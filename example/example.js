@@ -8,10 +8,7 @@ var template = {
         '/root/child/grandchild',
         {
             baz: '@baz',
-            buz: '@buz',
-            obj: {
-                a: '../abc/@baz'
-            }
+            buz: '@buz'
         }
     ],
     anObj: {
@@ -19,10 +16,23 @@ var template = {
         abc: '/root/child/abc',
         def : {
             ghi: '/root/sibling/@baz'
-        }
-    },
-    goUp: '/root/child/grandchild/..',
-    sibling: '/root/sibling'
+        },
+        arr: [
+            '/root/arr1/arr2/item',
+            {
+                a: '.'
+            }
+        ]
+    }
+    // ,arr1: [
+    //     '/root/arr1/arr2',
+    //     {
+    //         x: '.'
+    //     }
+    // ]
+    // test: '/root/arr1/arr2/item/.'
+    // goUp: '/root/child/grandchild/..',
+    // sibling: '/root/sibling'
 }
 
 var xml = '<?xml version="1.0" encoding="UTF-8"?>' +
@@ -34,6 +44,10 @@ var xml = '<?xml version="1.0" encoding="UTF-8"?>' +
     '<grandchild baz="baz3" buz="buz3">grandchild content 3</grandchild>' +
     '<grandchild baz="baz4" buz="buz4">grandchild content 4</grandchild>' +
     '</child>' +
+    '<arr1>' +
+    '<arr2><item>item1</item><item>item2</item></arr2>' +
+    '<arr2><item>item3</item><item>item4</item></arr2>' +
+    '</arr1>' +
     '<sibling baz="buzzz">im sibling</sibling>' +
     '</root>';
 
