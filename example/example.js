@@ -7,8 +7,11 @@ var template = {
     grandchild : [
         '/root/child/grandchild',
         {
-            data: '@baz',
-            sibling: '@buz'
+            baz: '@baz',
+            buz: '@buz',
+            obj: {
+                a: '../abc/@baz'
+            }
         }
     ],
     anObj: {
@@ -25,11 +28,11 @@ var template = {
 var xml = '<?xml version="1.0" encoding="UTF-8"?>' +
     '<root>' +
     '<child foo="bar">' +
-    '<grandchild baz="fizbuzz1" buz="xxx1">grandchild content 1</grandchild>' +
-    '<grandchild baz="fizbuzz2" buz="xxx2">grandchild content 2</grandchild>' +
+    '<grandchild baz="baz1" buz="buz1">grandchild content 1</grandchild>' +
+    '<grandchild baz="baz2" buz="buz2">grandchild content 2</grandchild>' +
     '<abc baz="fizbuzzab">abc</abc>' +
-    '<grandchild baz="fizbuzz3" buz="xxx3">grandchild content 3</grandchild>' +
-    '<grandchild baz="fizbuzz4" buz="xxx4">grandchild content 4</grandchild>' +
+    '<grandchild baz="baz3" buz="buz3">grandchild content 3</grandchild>' +
+    '<grandchild baz="baz4" buz="buz4">grandchild content 4</grandchild>' +
     '</child>' +
     '<sibling baz="buzzz">im sibling</sibling>' +
     '</root>';
