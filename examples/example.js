@@ -43,7 +43,7 @@ var template = {
     //     }
     // ]
     // test: '/root/arr1/arr2/item/.'
-    // goUp: '/root/child/grandchild/..',
+    ,goUp: '/root/child/grandchild/..'
     ,sibling: '/root/child/@foo'
 }
 

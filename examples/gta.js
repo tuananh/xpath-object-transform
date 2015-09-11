@@ -4,21 +4,19 @@ let transform = require('../lib/xpath-object-transform'),
     fs = require('fs')
 
 let template = {
-    language: '/Response/ResponseDetails/@Language',
+    lang: '/Response/ResponseDetails/@Language',
     rooms: [
         '/Response/ResponseDetails/SearchHotelPricePaxResponse/HotelDetails/Hotel/PaxRoomSearchResults/PaxRoom/RoomCategories/RoomCategory',
         {
-            // desc: 'Description',
-            // id: '../@Id',
+            desc: 'Description',
+            id: './@Id',
             price: 'ItemPrice',
             priceGross: 'HotelRoomPrices/HotelRoom/PriceRanges/PriceRange/Price/@Gross',
             currencyCode: 'ItemPrice/@Currency',
             nightsCount: 'HotelRoomPrices/HotelRoom/PriceRanges/PriceRange/Price/@Nights',
             meals: 'Meals/Basis',
             fromDate: 'HotelRoomPrices/HotelRoom/PriceRanges/PriceRange/DateRange/FromDate',
-            toDate: 'HotelRoomPrices/HotelRoom/PriceRanges/PriceRange/DateRange/ToDate',
-            id: './@Id', // id of current
-            test: '..'
+            toDate: 'HotelRoomPrices/HotelRoom/PriceRanges/PriceRange/DateRange/ToDate'
         }
     ]
 }
