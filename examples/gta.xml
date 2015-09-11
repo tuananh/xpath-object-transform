@@ -1,0 +1,1456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response ResponseReference="REF_D_013_313-1301440398311094">
+    <ResponseDetails Language="en">
+        <SearchHotelPricePaxResponse>
+            <HotelDetails>
+                <Hotel HasExtraInfo="true" HasPictures="true">
+                    <City Code="SIN">
+                        <![CDATA[Singapore]]>
+                    </City>
+                    <Item Code="ROY2">
+                        <![CDATA[Royal At Newton]]>
+                    </Item>
+                    <LocationDetails>
+                        <Location Code="G9">
+                            <![CDATA[Outside Centre]]>
+                        </Location>
+                    </LocationDetails>
+                    <StarRating>3</StarRating>
+                    <PaxRoomSearchResults>
+                        <PaxRoom RoomIndex="1">
+                            <RoomCategories>
+                                <RoomCategory Id="001:ROY2:11152:S10909:12698:108933">
+                                    <Description>
+                                        <![CDATA[Superior Room]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">373.00</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="F">
+                                            <![CDATA[Full]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="373.00"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="186.50" Nights="2"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                            </RoomCategories>
+                        </PaxRoom>
+                        <PaxRoom RoomIndex="1">
+                            <RoomCategories>
+                                <RoomCategory Id="001:ROY2:11152:S10909:12698:108933">
+                                    <Description>
+                                        <![CDATA[Superior Room]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">373.00</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="F">
+                                            <![CDATA[Full]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="373.00"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="186.50" Nights="2"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                            </RoomCategories>
+                        </PaxRoom>
+                    </PaxRoomSearchResults>
+                </Hotel>
+                <Hotel HasExtraInfo="true" HasPictures="true">
+                    <City Code="SIN">
+                        <![CDATA[Singapore]]>
+                    </City>
+                    <Item Code="LIN">
+                        <![CDATA[Link]]>
+                    </Item>
+                    <LocationDetails>
+                        <Location Code="G3">
+                            <![CDATA[Station]]>
+                        </Location>
+                        <Location Code="G9">
+                            <![CDATA[Outside Centre]]>
+                        </Location>
+                    </LocationDetails>
+                    <StarRating>4</StarRating>
+                    <PaxRoomSearchResults>
+                        <PaxRoom RoomIndex="1">
+                            <RoomCategories>
+                                <RoomCategory Id="001:LIN:13025:S12827:15084:61778">
+                                    <Description>
+                                        <![CDATA[Superior Room]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">373.00</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="F">
+                                            <![CDATA[Full]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="373.00"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="186.50" Nights="2"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                            </RoomCategories>
+                        </PaxRoom>
+                        <PaxRoom RoomIndex="1">
+                            <RoomCategories>
+                                <RoomCategory Id="001:LIN:13025:S12827:15084:61778">
+                                    <Description>
+                                        <![CDATA[Superior Room]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">373.00</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="F">
+                                            <![CDATA[Full]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="373.00"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="186.50" Nights="2"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                            </RoomCategories>
+                        </PaxRoom>
+                    </PaxRoomSearchResults>
+                </Hotel>
+                <Hotel HasExtraInfo="true" HasPictures="true">
+                    <City Code="SIN">
+                        <![CDATA[Singapore]]>
+                    </City>
+                    <Item Code="ROB">
+                        <![CDATA[Robertson Quay]]>
+                    </Item>
+                    <LocationDetails>
+                        <Location Code="G9">
+                            <![CDATA[Outside Centre]]>
+                        </Location>
+                    </LocationDetails>
+                    <StarRating>3</StarRating>
+                    <PaxRoomSearchResults>
+                        <PaxRoom RoomIndex="1">
+                            <RoomCategories>
+                                <RoomCategory Id="001:ROB:11168:S10889:12675:52124">
+                                    <Description>
+                                        <![CDATA[Standard Room]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">303.00</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="C">
+                                            <![CDATA[Continental]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="303.00"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="151.50" Nights="2"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                            </RoomCategories>
+                        </PaxRoom>
+                        <PaxRoom RoomIndex="1">
+                            <RoomCategories>
+                                <RoomCategory Id="001:ROB:11168:S10889:12675:52124">
+                                    <Description>
+                                        <![CDATA[Standard Room]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">303.00</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="C">
+                                            <![CDATA[Continental]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="303.00"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="151.50" Nights="2"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                            </RoomCategories>
+                        </PaxRoom>
+                    </PaxRoomSearchResults>
+                </Hotel>
+                <Hotel HasExtraInfo="true" HasPictures="true">
+                    <City Code="SIN">
+                        <![CDATA[Singapore]]>
+                    </City>
+                    <Item Code="DUX">
+                        <![CDATA[Berjaya]]>
+                    </Item>
+                    <LocationDetails>
+                        <Location Code="G1">
+                            <![CDATA[Central]]>
+                        </Location>
+                    </LocationDetails>
+                    <StarRating>4</StarRating>
+                    <PaxRoomSearchResults>
+                        <PaxRoom RoomIndex="1">
+                            <RoomCategories>
+                                <RoomCategory Id="001:DUX:11135:S11962:14081:48864">
+                                    <Description>
+                                        <![CDATA[Standard Studio]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">404.00</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="F">
+                                            <![CDATA[Full]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="404.00"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="202.00" Nights="2"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                                <RoomCategory Id="001:BER:11135:S11962:14081:105316">
+                                    <Description>
+                                        <![CDATA[Deluxe Room]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">464.00</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="F">
+                                            <![CDATA[Full]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="464.00"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="232.00" Nights="2"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                                <RoomCategory Id="001:DUX1:11135:S11962:14081:57184">
+                                    <Description>
+                                        <![CDATA[Duplex Suite]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">707.00</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="F">
+                                            <![CDATA[Full]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="707.00"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="353.50" Nights="2"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                            </RoomCategories>
+                        </PaxRoom>
+                        <PaxRoom RoomIndex="1">
+                            <RoomCategories>
+                                <RoomCategory Id="001:DUX:11135:S11962:14081:48864">
+                                    <Description>
+                                        <![CDATA[Standard Studio]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">404.00</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="F">
+                                            <![CDATA[Full]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="404.00"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="202.00" Nights="2"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                                <RoomCategory Id="001:BER:11135:S11962:14081:105316">
+                                    <Description>
+                                        <![CDATA[Deluxe Room]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">464.00</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="F">
+                                            <![CDATA[Full]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="464.00"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="232.00" Nights="2"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                                <RoomCategory Id="001:DUX1:11135:S11962:14081:57184">
+                                    <Description>
+                                        <![CDATA[Duplex Suite]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">707.00</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="F">
+                                            <![CDATA[Full]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="707.00"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="353.50" Nights="2"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                            </RoomCategories>
+                        </PaxRoom>
+                    </PaxRoomSearchResults>
+                </Hotel>
+                <Hotel HasExtraInfo="true" HasPictures="true">
+                    <City Code="SIN">
+                        <![CDATA[Singapore]]>
+                    </City>
+                    <Item Code="CIT">
+                        <![CDATA[Bayview]]>
+                    </Item>
+                    <LocationDetails>
+                        <Location Code="G1">
+                            <![CDATA[Central]]>
+                        </Location>
+                    </LocationDetails>
+                    <StarRating>3</StarRating>
+                    <PaxRoomSearchResults>
+                        <PaxRoom RoomIndex="1">
+                            <RoomCategories>
+                                <RoomCategory Id="001:CIT:11134:S10754:12536:52357">
+                                    <Description>
+                                        <![CDATA[Superior Room]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">434.00</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="F">
+                                            <![CDATA[Full]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="434.00"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="217.00" Nights="2"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                                <RoomCategory Id="001:CIT1:11134:S10754:12536:52367">
+                                    <Description>
+                                        <![CDATA[Deluxe Room]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">454.00</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="F">
+                                            <![CDATA[Full]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="454.00"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="227.00" Nights="2"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                            </RoomCategories>
+                        </PaxRoom>
+                        <PaxRoom RoomIndex="1">
+                            <RoomCategories>
+                                <RoomCategory Id="001:CIT:11134:S10754:12536:52357">
+                                    <Description>
+                                        <![CDATA[Superior Room]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">434.00</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="F">
+                                            <![CDATA[Full]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="434.00"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="217.00" Nights="2"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                                <RoomCategory Id="001:CIT1:11134:S10754:12536:52367">
+                                    <Description>
+                                        <![CDATA[Deluxe Room]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">454.00</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="F">
+                                            <![CDATA[Full]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="454.00"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="227.00" Nights="2"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                            </RoomCategories>
+                        </PaxRoom>
+                    </PaxRoomSearchResults>
+                </Hotel>
+                <Hotel HasExtraInfo="true" HasPictures="true">
+                    <City Code="SIN">
+                        <![CDATA[Singapore]]>
+                    </City>
+                    <Item Code="MET">
+                        <![CDATA[Metropolitan Y]]>
+                    </Item>
+                    <LocationDetails>
+                        <Location Code="G9">
+                            <![CDATA[Outside Centre]]>
+                        </Location>
+                    </LocationDetails>
+                    <StarRating>3</StarRating>
+                    <PaxRoomSearchResults>
+                        <PaxRoom RoomIndex="1">
+                            <RoomCategories>
+                                <RoomCategory Id="001:MET:11140:S10888:12674:108062">
+                                    <Description>
+                                        <![CDATA[Deluxe Room]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">253.00</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="F">
+                                            <![CDATA[Full]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="253.00"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="126.50" Nights="2"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                            </RoomCategories>
+                        </PaxRoom>
+                        <PaxRoom RoomIndex="1">
+                            <RoomCategories>
+                                <RoomCategory Id="001:MET:11140:S10888:12674:108062">
+                                    <Description>
+                                        <![CDATA[Deluxe Room]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">253.00</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="F">
+                                            <![CDATA[Full]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="253.00"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="126.50" Nights="2"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                            </RoomCategories>
+                        </PaxRoom>
+                    </PaxRoomSearchResults>
+                </Hotel>
+                <Hotel HasExtraInfo="true" HasPictures="true">
+                    <City Code="SIN">
+                        <![CDATA[Singapore]]>
+                    </City>
+                    <Item Code="AMA">
+                        <![CDATA[Amara]]>
+                    </Item>
+                    <LocationDetails>
+                        <Location Code="G9">
+                            <![CDATA[Outside Centre]]>
+                        </Location>
+                    </LocationDetails>
+                    <StarRating>4</StarRating>
+                    <PaxRoomSearchResults>
+                        <PaxRoom RoomIndex="1">
+                            <RoomCategories>
+                                <RoomCategory Id="001:AMA:14418:S13819:17079:105485">
+                                    <Description>
+                                        <![CDATA[Deluxe Room]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">565.50</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="F">
+                                            <![CDATA[Full]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="565.50"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-01</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="303.00" Nights="1"/>
+                                                </PriceRange>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-02</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="262.50" Nights="1"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                                <RoomCategory Id="001:AMA1:14418:S13819:17079:105478">
+                                    <Description>
+                                        <![CDATA[Executive Room]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">605.00</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="F">
+                                            <![CDATA[Full]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="605.00"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-01</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="322.50" Nights="1"/>
+                                                </PriceRange>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-02</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="282.50" Nights="1"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                                <RoomCategory Id="001:AMA2:14418:S13819:17079:105486">
+                                    <Description>
+                                        <![CDATA[Club Room]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">807.50</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="F">
+                                            <![CDATA[Full]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="807.50"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-01</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="424.00" Nights="1"/>
+                                                </PriceRange>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-02</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="383.50" Nights="1"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                            </RoomCategories>
+                        </PaxRoom>
+                        <PaxRoom RoomIndex="1">
+                            <RoomCategories>
+                                <RoomCategory Id="001:AMA:14418:S13819:17079:105485">
+                                    <Description>
+                                        <![CDATA[Deluxe Room]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">565.50</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="F">
+                                            <![CDATA[Full]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="565.50"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-01</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="303.00" Nights="1"/>
+                                                </PriceRange>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-02</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="262.50" Nights="1"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                                <RoomCategory Id="001:AMA1:14418:S13819:17079:105478">
+                                    <Description>
+                                        <![CDATA[Executive Room]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">605.00</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="F">
+                                            <![CDATA[Full]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="605.00"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-01</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="322.50" Nights="1"/>
+                                                </PriceRange>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-02</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="282.50" Nights="1"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                                <RoomCategory Id="001:AMA2:14418:S13819:17079:105486">
+                                    <Description>
+                                        <![CDATA[Club Room]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">807.50</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="F">
+                                            <![CDATA[Full]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="807.50"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-01</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="424.00" Nights="1"/>
+                                                </PriceRange>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-02</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="383.50" Nights="1"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                            </RoomCategories>
+                        </PaxRoom>
+                    </PaxRoomSearchResults>
+                </Hotel>
+                <Hotel HasExtraInfo="true" HasPictures="true">
+                    <City Code="SIN">
+                        <![CDATA[Singapore]]>
+                    </City>
+                    <Item Code="ALL1">
+                        <![CDATA[Hotel Grand Pacific]]>
+                    </Item>
+                    <LocationDetails>
+                        <Location Code="G1">
+                            <![CDATA[Central]]>
+                        </Location>
+                    </LocationDetails>
+                    <StarRating>4</StarRating>
+                    <PaxRoomSearchResults>
+                        <PaxRoom RoomIndex="1">
+                            <RoomCategories>
+                                <RoomCategory Id="001:ALL1:11141:S10880:12684:104781">
+                                    <Description>
+                                        <![CDATA[Deluxe Room]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">454.00</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="F">
+                                            <![CDATA[Full]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="454.00"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="227.00" Nights="2"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                    <EssentialInformation>
+                                        <Information>
+                                            <Text>
+                                                <![CDATA[Mandatory resort fee of approximately 16-20 USD per room per day to be paid directly to the hotel]]>
+                                            </Text>
+                                            <DateRange>
+                                                <FromDate>2013-03-20</FromDate>
+                                                <ToDate>2016-03-20</ToDate>
+                                            </DateRange>
+                                        </Information>
+                                    </EssentialInformation>
+                                </RoomCategory>
+                                <RoomCategory Id="001:ALL3:11141:S10880:12684:104760">
+                                    <Description>
+                                        <![CDATA[Executive Room]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">494.00</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="F">
+                                            <![CDATA[Full]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="494.00"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="247.00" Nights="2"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                            </RoomCategories>
+                        </PaxRoom>
+                        <PaxRoom RoomIndex="1">
+                            <RoomCategories>
+                                <RoomCategory Id="001:ALL1:11141:S10880:12684:104781">
+                                    <Description>
+                                        <![CDATA[Deluxe Room]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">454.00</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="F">
+                                            <![CDATA[Full]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="454.00"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="227.00" Nights="2"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                    <EssentialInformation>
+                                        <Information>
+                                            <Text>
+                                                <![CDATA[Mandatory resort fee of approximately 16-20 USD per room per day to be paid directly to the hotel]]>
+                                            </Text>
+                                            <DateRange>
+                                                <FromDate>2013-03-20</FromDate>
+                                                <ToDate>2016-03-20</ToDate>
+                                            </DateRange>
+                                        </Information>
+                                    </EssentialInformation>
+                                </RoomCategory>
+                                <RoomCategory Id="001:ALL3:11141:S10880:12684:104760">
+                                    <Description>
+                                        <![CDATA[Executive Room]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">494.00</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="F">
+                                            <![CDATA[Full]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="494.00"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="247.00" Nights="2"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                            </RoomCategories>
+                        </PaxRoom>
+                    </PaxRoomSearchResults>
+                </Hotel>
+                <Hotel HasExtraInfo="true" HasPictures="true">
+                    <City Code="SIN">
+                        <![CDATA[Singapore]]>
+                    </City>
+                    <Item Code="MIR">
+                        <![CDATA[Miramar]]>
+                    </Item>
+                    <LocationDetails>
+                        <Location Code="G9">
+                            <![CDATA[Outside Centre]]>
+                        </Location>
+                    </LocationDetails>
+                    <StarRating>3</StarRating>
+                    <PaxRoomSearchResults>
+                        <PaxRoom RoomIndex="1">
+                            <RoomCategories>
+                                <RoomCategory Id="001:MIR:11101:S10864:12661:109404">
+                                    <Description>
+                                        <![CDATA[Deluxe Room]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">444.00</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="F">
+                                            <![CDATA[Full]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="444.00"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="222.00" Nights="2"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                            </RoomCategories>
+                        </PaxRoom>
+                        <PaxRoom RoomIndex="1">
+                            <RoomCategories>
+                                <RoomCategory Id="001:MIR:11101:S10864:12661:109404">
+                                    <Description>
+                                        <![CDATA[Deluxe Room]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">444.00</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="F">
+                                            <![CDATA[Full]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="444.00"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="222.00" Nights="2"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                            </RoomCategories>
+                        </PaxRoom>
+                    </PaxRoomSearchResults>
+                </Hotel>
+                <Hotel HasExtraInfo="true" HasPictures="true">
+                    <City Code="SIN">
+                        <![CDATA[Singapore]]>
+                    </City>
+                    <Item Code="PAR6">
+                        <![CDATA[Park Regis Singapore]]>
+                    </Item>
+                    <LocationDetails>
+                        <Location Code="G1">
+                            <![CDATA[Central]]>
+                        </Location>
+                    </LocationDetails>
+                    <StarRating>4</StarRating>
+                    <PaxRoomSearchResults>
+                        <PaxRoom RoomIndex="1">
+                            <RoomCategories>
+                                <RoomCategory Id="001:PAR6:11103:S10700:12502:65444">
+                                    <Description>
+                                        <![CDATA[Park Room]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">606.00</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="F">
+                                            <![CDATA[Full]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="606.00"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="303.00" Nights="2"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                                <RoomCategory Id="001:PAR7:11103:S10700:12502:65443">
+                                    <Description>
+                                        <![CDATA[Merchant Room]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">645.00</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="F">
+                                            <![CDATA[Full]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="645.00"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="322.50" Nights="2"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                            </RoomCategories>
+                        </PaxRoom>
+                        <PaxRoom RoomIndex="1">
+                            <RoomCategories>
+                                <RoomCategory Id="001:PAR6:11103:S10700:12502:65444">
+                                    <Description>
+                                        <![CDATA[Park Room]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">606.00</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="F">
+                                            <![CDATA[Full]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="606.00"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="303.00" Nights="2"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                                <RoomCategory Id="001:PAR7:11103:S10700:12502:65443">
+                                    <Description>
+                                        <![CDATA[Merchant Room]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">645.00</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="F">
+                                            <![CDATA[Full]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="645.00"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="322.50" Nights="2"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                            </RoomCategories>
+                        </PaxRoom>
+                    </PaxRoomSearchResults>
+                </Hotel>
+                <Hotel HasExtraInfo="true" HasPictures="true">
+                    <City Code="SIN">
+                        <![CDATA[Singapore]]>
+                    </City>
+                    <Item Code="CHI">
+                        <![CDATA[Chinatown]]>
+                    </Item>
+                    <LocationDetails>
+                        <Location Code="G1">
+                            <![CDATA[Central]]>
+                        </Location>
+                    </LocationDetails>
+                    <StarRating>2</StarRating>
+                    <PaxRoomSearchResults>
+                        <PaxRoom RoomIndex="1">
+                            <RoomCategories>
+                                <RoomCategory Id="001:CHI:4810:S4720:5350:106977">
+                                    <Description>
+                                        <![CDATA[Standard Room]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">343.00</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="C">
+                                            <![CDATA[Continental]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="343.00"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="171.50" Nights="2"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                            </RoomCategories>
+                        </PaxRoom>
+                        <PaxRoom RoomIndex="1">
+                            <RoomCategories>
+                                <RoomCategory Id="001:CHI:4810:S4720:5350:106977">
+                                    <Description>
+                                        <![CDATA[Standard Room]]>
+                                    </Description>
+                                    <ItemPrice CommissionPercentage="0.00" Currency="USD">343.00</ItemPrice>
+                                    <Confirmation Code="IM">
+                                        <![CDATA[AVAILABLE]]>
+                                    </Confirmation>
+                                    <Meals>
+                                        <Basis Code="B">
+                                            <![CDATA[Breakfast]]>
+                                        </Basis>
+                                        <Breakfast Code="C">
+                                            <![CDATA[Continental]]>
+                                        </Breakfast>
+                                    </Meals>
+                                    <HotelRoomPrices>
+                                        <HotelRoom>
+                                            <RoomPrice Gross="343.00"/>
+                                            <PriceRanges>
+                                                <PriceRange>
+                                                    <DateRange>
+                                                        <FromDate>2015-10-01</FromDate>
+                                                        <ToDate>2015-10-02</ToDate>
+                                                    </DateRange>
+                                                    <Price Gross="171.50" Nights="2"/>
+                                                </PriceRange>
+                                            </PriceRanges>
+                                        </HotelRoom>
+                                    </HotelRoomPrices>
+                                </RoomCategory>
+                            </RoomCategories>
+                        </PaxRoom>
+                    </PaxRoomSearchResults>
+                </Hotel>
+            </HotelDetails>
+        </SearchHotelPricePaxResponse>
+    </ResponseDetails>
+</Response>
