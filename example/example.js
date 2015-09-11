@@ -11,6 +11,18 @@ var template = {
             buz: '@buz'
         }
     ],
+    arrInsideArr : [
+        '/root/arr1/arr2',
+        {
+            // attr: '@attr',
+            arr: [
+                'item',
+                {
+                    value: '.'
+                }
+            ]
+        }
+    ],
     anObj: {
         node: '/root/sibling',
         abc: '/root/child/abc',
@@ -45,8 +57,8 @@ var xml = '<?xml version="1.0" encoding="UTF-8"?>' +
     '<grandchild baz="baz4" buz="buz4">grandchild content 4</grandchild>' +
     '</child>' +
     '<arr1>' +
-    '<arr2><item>item1</item><item>item2</item></arr2>' +
-    '<arr2><item>item3</item><item>item4</item></arr2>' +
+    '<arr2 attr="attr 1"><item>item1</item><item>item2</item></arr2>' +
+    '<arr2 attr="attr 2"><item>item3</item><item>item4</item></arr2>' +
     '</arr1>' +
     '<sibling baz="buzzz">im sibling</sibling>' +
     '</root>';
