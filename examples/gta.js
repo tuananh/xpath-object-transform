@@ -17,8 +17,11 @@ let template = {
             meals: 'Meals/Basis',
             fromDate: 'HotelRoomPrices/HotelRoom/PriceRanges/PriceRange/DateRange/FromDate',
             toDate: 'HotelRoomPrices/HotelRoom/PriceRanges/PriceRange/DateRange/ToDate'
+            // ,up: '../../@RoomIndex'
         }
     ]
+    ,goingUp: '/Response/ResponseDetails/SearchHotelPricePaxResponse/HotelDetails/Hotel/PaxRoomSearchResults/PaxRoom/RoomCategories/RoomCategory/../../@RoomIndex'
+    // ,test2: '/Response/ResponseDetails/../@ResponseReference'
 }
 
 let xml = fs.readFileSync('./gta.xml', 'utf8')

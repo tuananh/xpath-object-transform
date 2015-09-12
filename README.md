@@ -8,7 +8,7 @@ Project in flux, not stable. Nothing is guaranteed.
 Usage
 -----
 
-See `example/example.js`
+See `example/*.js`
 
 TODO
 -----
