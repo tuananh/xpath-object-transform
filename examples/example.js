@@ -8,7 +8,9 @@ var template = {
         '/root/child/grandchild',
         {
             baz: '@baz',
-            buz: '@buz'
+            buz: '@buz',
+            empty: '',
+            hardCode: '#abc'
         }
     ],
     arrInsideArr : [
