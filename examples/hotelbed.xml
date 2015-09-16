@@ -1,0 +1,356 @@
+<HotelValuedAvailRS timeToExpiration="-3977769" totalItems="5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.hotelbeds.com/schemas/2005/06/messages"
+    xsi:schemaLocation="http://www.hotelbeds.com/schemas/2005/06/messages HotelValuedAvailRS.xsd">
+    <AuditData>
+        <ProcessTime>11</ProcessTime>
+        <Timestamp>2015-09-09 07:35:14.592</Timestamp>
+        <RequestHost>118.70.12.148</RequestHost>
+        <ServerName>FORM|1QWwoLtskLSoATyL7fs6nQ5M|MY|01|4|0</ServerName>
+        <ServerId>FO</ServerId>
+        <SchemaRelease>2005/06</SchemaRelease>
+        <HydraCoreRelease>2.0.6.20150831</HydraCoreRelease>
+        <HydraEnumerationsRelease>1#RDEkOYFHQ3uLpRRjXpJRxw</HydraEnumerationsRelease>
+        <MerlinRelease>0</MerlinRelease>
+    </AuditData><PaginationData currentPage="1" totalPages="2"/>
+    <ServiceHotel availToken="1QWwoLtskLSoATyL7fs6nQ5M" xsi:type="ServiceHotel">
+        <ContractList>
+            <Contract>
+                <Name>GS-FIT</Name>
+                <IncomingOffice code="358"></IncomingOffice>
+                <Classification code="SPE">Special Offer</Classification>
+            </Contract>
+        </ContractList><DateFrom date="20151111"/><DateTo date="20151114"/>
+        <Currency code="USD">US Dollar</Currency>
+        <HotelInfo xsi:type="ProductHotel">
+            <Code>141679</Code>
+            <Name>Cosiana Hotel Hanoi</Name>
+            <ImageList>
+                <Image>
+                    <Type>jpg</Type>
+                    <Order>1</Order>
+                    <VisualizationOrder>1</VisualizationOrder>
+                    <Url>http://www.hotelbeds.com/giata/small/14/141679/141679a_hb_a_001.jpg</Url>
+                </Image>
+                <Image>
+                    <Type>jpg</Type>
+                    <Order>2</Order>
+                    <VisualizationOrder>2</VisualizationOrder>
+                    <Url>http://www.hotelbeds.com/giata/small/14/141679/141679a_hb_w_002.jpg</Url>
+                </Image>
+            </ImageList>
+            <Category code="3EST" shortname="3*" type="SIMPLE">3 STARS</Category>
+            <Destination code="HAN" type="SIMPLE">
+                <Name>Hanoi and North</Name>
+                <ZoneList>
+                    <Zone code="1" type="SIMPLE">Hanoi</Zone>
+                </ZoneList>
+            </Destination><ChildAge ageFrom="0" ageTo="9"/><Position latitude="21.02674788453898813145" longitude="105.84146802579493851226"/></HotelInfo>
+        <AvailableRoom>
+            <HotelOccupancy>
+                <RoomCount>1</RoomCount>
+                <Occupancy>
+                    <AdultCount>2</AdultCount>
+                    <ChildCount>0</ChildCount>
+                </Occupancy>
+            </HotelOccupancy>
+            <HotelRoom SHRUI="dmtjlT6MtdLmRGim/CNX2Q==" availCount="5" onRequest="N">
+                <Board code="BB-TH2" shortname="BB" type="SIMPLE">BED AND BREAKFAST</Board>
+                <RoomType characteristic="SP" code="DBT-TH2" type="SIMPLE">Double or Twin SUPERIOR</RoomType>
+                <Price>
+                    <Amount>109.680</Amount>
+                </Price>
+            </HotelRoom>
+        </AvailableRoom>
+        <AvailableRoom>
+            <HotelOccupancy>
+                <RoomCount>1</RoomCount>
+                <Occupancy>
+                    <AdultCount>2</AdultCount>
+                    <ChildCount>0</ChildCount>
+                </Occupancy>
+            </HotelOccupancy>
+            <HotelRoom SHRUI="H0K1ME+yQQXiOi9FD+jHhw==" availCount="5" onRequest="N">
+                <Board code="BB-TH2" shortname="BB" type="SIMPLE">BED AND BREAKFAST</Board>
+                <RoomType characteristic="DX" code="DBT-TH2" type="SIMPLE">Double or Twin DELUXE</RoomType>
+                <Price>
+                    <Amount>122.580</Amount>
+                </Price>
+            </HotelRoom>
+        </AvailableRoom>
+        <AvailableRoom>
+            <HotelOccupancy>
+                <RoomCount>1</RoomCount>
+                <Occupancy>
+                    <AdultCount>2</AdultCount>
+                    <ChildCount>2</ChildCount>
+                </Occupancy>
+            </HotelOccupancy>
+            <HotelRoom SHRUI="19mIwmOPh2QhO5WV72+t9g==" availCount="2" onRequest="N">
+                <Board code="BB-TH2" shortname="BB" type="SIMPLE">BED AND BREAKFAST</Board>
+                <RoomType characteristic="FM" code="FAM-TH2" type="SIMPLE">FAMILY ROOM FAMILY ROOM</RoomType>
+                <Price>
+                    <Amount>254.850</Amount>
+                </Price>
+            </HotelRoom>
+        </AvailableRoom>
+        <AvailableRoom>
+            <HotelOccupancy>
+                <RoomCount>1</RoomCount>
+                <Occupancy>
+                    <AdultCount>2</AdultCount>
+                    <ChildCount>0</ChildCount>
+                </Occupancy>
+            </HotelOccupancy>
+            <HotelRoom SHRUI="ifT4xr1ynzh9lPa5C1c90g==" availCount="2" onRequest="N">
+                <Board code="BB-TH2" shortname="BB" type="SIMPLE">BED AND BREAKFAST</Board>
+                <RoomType characteristic="FM" code="FAM-TH2" type="SIMPLE">FAMILY ROOM FAMILY ROOM</RoomType>
+                <Price>
+                    <Amount>254.850</Amount>
+                </Price>
+            </HotelRoom>
+        </AvailableRoom>
+    </ServiceHotel>
+    <ServiceHotel availToken="1QWwoLtskLSoATyL7fs6nQ5M" xsi:type="ServiceHotel">
+        <ContractList>
+            <Contract>
+                <Name>GS-BAR</Name>
+                <IncomingOffice code="358"></IncomingOffice>
+                <Classification code="NOR">Online Price</Classification>
+            </Contract>
+        </ContractList><DateFrom date="20151111"/><DateTo date="20151114"/>
+        <Currency code="USD">US Dollar</Currency>
+        <HotelInfo xsi:type="ProductHotel">
+            <Code>146290</Code>
+            <Name>Icon 36 Hotel</Name>
+            <ImageList>
+                <Image>
+                    <Type>jpg</Type>
+                    <Order>1</Order>
+                    <VisualizationOrder>1</VisualizationOrder>
+                    <Url>http://www.hotelbeds.com/giata/small/14/146290/146290a_hb_a_005.jpg</Url>
+                </Image>
+                <Image>
+                    <Type>jpg</Type>
+                    <Order>2</Order>
+                    <VisualizationOrder>2</VisualizationOrder>
+                    <Url>http://www.hotelbeds.com/giata/small/14/146290/146290a_hb_w_001.jpg</Url>
+                </Image>
+            </ImageList>
+            <Category code="H3_5" shortname="3½*" type="SIMPLE">3 STARS AND A HALF</Category>
+            <Destination code="HAN" type="SIMPLE">
+                <Name>Hanoi and North</Name>
+                <ZoneList>
+                    <Zone code="1" type="SIMPLE">Hanoi</Zone>
+                </ZoneList>
+            </Destination><ChildAge ageFrom="0" ageTo="11"/><Position latitude="21.03476399999999912893" longitude="105.84547600000000500131"/></HotelInfo>
+        <AvailableRoom>
+            <HotelOccupancy>
+                <RoomCount>1</RoomCount>
+                <Occupancy>
+                    <AdultCount>2</AdultCount>
+                    <ChildCount>2</ChildCount>
+                </Occupancy>
+            </HotelOccupancy>
+            <HotelRoom SHRUI="LS2pBzpnA7CetUZ2jmx1Xw==" availCount="5" onRequest="N">
+                <Board code="BB-TH2" shortname="BB" type="SIMPLE">BED AND BREAKFAST</Board>
+                <RoomType characteristic="SP" code="DBT-TH2" type="SIMPLE">Double or Twin SUPERIOR</RoomType>
+                <Price>
+                    <Amount>120.960</Amount>
+                </Price>
+            </HotelRoom>
+        </AvailableRoom>
+        <AvailableRoom>
+            <HotelOccupancy>
+                <RoomCount>1</RoomCount>
+                <Occupancy>
+                    <AdultCount>2</AdultCount>
+                    <ChildCount>0</ChildCount>
+                </Occupancy>
+            </HotelOccupancy>
+            <HotelRoom SHRUI="QGL+Vk1u/xO+3T6/HD1wjg==" availCount="5" onRequest="N">
+                <Board code="BB-TH2" shortname="BB" type="SIMPLE">BED AND BREAKFAST</Board>
+                <RoomType characteristic="SP" code="DBT-TH2" type="SIMPLE">Double or Twin SUPERIOR</RoomType>
+                <Price>
+                    <Amount>120.960</Amount>
+                </Price>
+            </HotelRoom>
+        </AvailableRoom>
+        <AvailableRoom>
+            <HotelOccupancy>
+                <RoomCount>1</RoomCount>
+                <Occupancy>
+                    <AdultCount>2</AdultCount>
+                    <ChildCount>2</ChildCount>
+                </Occupancy>
+            </HotelOccupancy>
+            <HotelRoom SHRUI="k5dF6o19YUSQ/RiXgfzlbg==" availCount="5" onRequest="N">
+                <Board code="BB-TH2" shortname="BB" type="SIMPLE">BED AND BREAKFAST</Board>
+                <RoomType characteristic="DX" code="DBT-TH2" type="SIMPLE">Double or Twin DELUXE</RoomType>
+                <Price>
+                    <Amount>157.260</Amount>
+                </Price>
+            </HotelRoom>
+        </AvailableRoom>
+        <AvailableRoom>
+            <HotelOccupancy>
+                <RoomCount>1</RoomCount>
+                <Occupancy>
+                    <AdultCount>2</AdultCount>
+                    <ChildCount>0</ChildCount>
+                </Occupancy>
+            </HotelOccupancy>
+            <HotelRoom SHRUI="sz9X4ykDzm6/9wN8DPxabw==" availCount="5" onRequest="N">
+                <Board code="BB-TH2" shortname="BB" type="SIMPLE">BED AND BREAKFAST</Board>
+                <RoomType characteristic="DX" code="DBT-TH2" type="SIMPLE">Double or Twin DELUXE</RoomType>
+                <Price>
+                    <Amount>157.260</Amount>
+                </Price>
+            </HotelRoom>
+        </AvailableRoom>
+        <AvailableRoom>
+            <HotelOccupancy>
+                <RoomCount>1</RoomCount>
+                <Occupancy>
+                    <AdultCount>2</AdultCount>
+                    <ChildCount>2</ChildCount>
+                </Occupancy>
+            </HotelOccupancy>
+            <HotelRoom SHRUI="476n0bYI/AA062JUcUggMg==" availCount="1" onRequest="N">
+                <Board code="BB-TH2" shortname="BB" type="SIMPLE">BED AND BREAKFAST</Board>
+                <RoomType characteristic="SU" code="DBT-TH2" type="SIMPLE">Double or Twin SUITE</RoomType>
+                <Price>
+                    <Amount>217.740</Amount>
+                </Price>
+            </HotelRoom>
+        </AvailableRoom>
+    </ServiceHotel>
+    <ServiceHotel availToken="1QWwoLtskLSoATyL7fs6nQ5M" xsi:type="ServiceHotel">
+        <ContractList>
+            <Contract>
+                <Name>GS-BAR-RO</Name>
+                <IncomingOffice code="358"></IncomingOffice>
+                <Classification code="NOR">Online Price</Classification>
+            </Contract>
+        </ContractList><DateFrom date="20151111"/><DateTo date="20151114"/>
+        <Currency code="USD">US Dollar</Currency>
+        <HotelInfo xsi:type="ProductHotel">
+            <Code>164637</Code>
+            <Name>Emeralda Resort Ninh Binh</Name>
+            <ImageList>
+                <Image>
+                    <Type>jpg</Type>
+                    <Order>1</Order>
+                    <VisualizationOrder>1</VisualizationOrder>
+                    <Url>http://www.hotelbeds.com/giata/small/16/164637/164637a_hb_a_002.jpg</Url>
+                </Image>
+                <Image>
+                    <Type>jpg</Type>
+                    <Order>2</Order>
+                    <VisualizationOrder>2</VisualizationOrder>
+                    <Url>http://www.hotelbeds.com/giata/small/16/164637/164637a_hb_a_003.jpg</Url>
+                </Image>
+            </ImageList>
+            <Category code="5EST" shortname="5*" type="SIMPLE">5 STARS</Category>
+            <Destination code="HAN" type="SIMPLE">
+                <Name>Hanoi and North</Name>
+                <ZoneList>
+                    <Zone code="7" type="SIMPLE">Ninh Binh</Zone>
+                </ZoneList>
+            </Destination><ChildAge ageFrom="6" ageTo="11"/><Position latitude="20.35712499999999991473" longitude="105.88048100000000317777"/></HotelInfo>
+        <AvailableRoom>
+            <HotelOccupancy>
+                <RoomCount>1</RoomCount>
+                <Occupancy>
+                    <AdultCount>2</AdultCount>
+                    <ChildCount>2</ChildCount>
+                </Occupancy>
+            </HotelOccupancy>
+            <HotelRoom SHRUI="2p65AgHGuvIrUUpCGs88uw==" availCount="3" onRequest="N">
+                <Board code="RO-TH2" shortname="RO" type="SIMPLE">ROOM ONLY</Board>
+                <RoomType characteristic="SP" code="DBT-TH2" type="SIMPLE">Double or Twin SUPERIOR</RoomType>
+                <Price>
+                    <Amount>286.570</Amount>
+                </Price>
+            </HotelRoom>
+        </AvailableRoom>
+        <AvailableRoom>
+            <HotelOccupancy>
+                <RoomCount>1</RoomCount>
+                <Occupancy>
+                    <AdultCount>2</AdultCount>
+                    <ChildCount>0</ChildCount>
+                </Occupancy>
+            </HotelOccupancy>
+            <HotelRoom SHRUI="Dx/FQ3benoFqFvwS+6de/w==" availCount="3" onRequest="N">
+                <Board code="RO-TH2" shortname="RO" type="SIMPLE">ROOM ONLY</Board>
+                <RoomType characteristic="SP" code="DBT-TH2" type="SIMPLE">Double or Twin SUPERIOR</RoomType>
+                <Price>
+                    <Amount>286.570</Amount>
+                </Price>
+            </HotelRoom>
+        </AvailableRoom>
+        <AvailableRoom>
+            <HotelOccupancy>
+                <RoomCount>1</RoomCount>
+                <Occupancy>
+                    <AdultCount>2</AdultCount>
+                    <ChildCount>2</ChildCount>
+                </Occupancy>
+            </HotelOccupancy>
+            <HotelRoom SHRUI="y3IqY5p+BCHupnCH7uYIKA==" availCount="3" onRequest="N">
+                <Board code="RO-TH2" shortname="RO" type="SIMPLE">ROOM ONLY</Board>
+                <RoomType characteristic="DX" code="DBT-TH2" type="SIMPLE">Double or Twin DELUXE</RoomType>
+                <Price>
+                    <Amount>454.240</Amount>
+                </Price>
+            </HotelRoom>
+        </AvailableRoom>
+        <AvailableRoom>
+            <HotelOccupancy>
+                <RoomCount>1</RoomCount>
+                <Occupancy>
+                    <AdultCount>2</AdultCount>
+                    <ChildCount>0</ChildCount>
+                </Occupancy>
+            </HotelOccupancy>
+            <HotelRoom SHRUI="YlxsELB3FjbUeDDRLEpd6A==" availCount="3" onRequest="N">
+                <Board code="RO-TH2" shortname="RO" type="SIMPLE">ROOM ONLY</Board>
+                <RoomType characteristic="DX" code="DBT-TH2" type="SIMPLE">Double or Twin DELUXE</RoomType>
+                <Price>
+                    <Amount>454.240</Amount>
+                </Price>
+            </HotelRoom>
+        </AvailableRoom>
+        <AvailableRoom>
+            <HotelOccupancy>
+                <RoomCount>1</RoomCount>
+                <Occupancy>
+                    <AdultCount>2</AdultCount>
+                    <ChildCount>2</ChildCount>
+                </Occupancy>
+            </HotelOccupancy>
+            <HotelRoom SHRUI="EXklnByCaWjyy57Bz5e9Tw==" availCount="2" onRequest="N">
+                <Board code="RO-TH2" shortname="RO" type="SIMPLE">ROOM ONLY</Board>
+                <RoomType characteristic="DE" code="FAM-TH2" type="SIMPLE">FAMILY ROOM DUPLEX</RoomType>
+                <Price>
+                    <Amount>563.830</Amount>
+                </Price>
+            </HotelRoom>
+        </AvailableRoom>
+        <AvailableRoom>
+            <HotelOccupancy>
+                <RoomCount>1</RoomCount>
+                <Occupancy>
+                    <AdultCount>2</AdultCount>
+                    <ChildCount>0</ChildCount>
+                </Occupancy>
+            </HotelOccupancy>
+            <HotelRoom SHRUI="Yry9oIiL9cusn+Jxq5o6sQ==" availCount="2" onRequest="N">
+                <Board code="RO-TH2" shortname="RO" type="SIMPLE">ROOM ONLY</Board>
+                <RoomType characteristic="DE" code="FAM-TH2" type="SIMPLE">FAMILY ROOM DUPLEX</RoomType>
+                <Price>
+                    <Amount>563.830</Amount>
+                </Price>
+            </HotelRoom>
+        </AvailableRoom>
+    </ServiceHotel>
+</HotelValuedAvailRS>
