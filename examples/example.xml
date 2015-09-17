@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-    <hotel>
-        <rooms attr="attr 1">
-            <room>
-                <rateKey>8fa16264-7149-47ae-8eb6-87a66d81432d</rateKey>
-            </room>
-            <room>
-                <rateKey>65f720b6-1bf6-41a2-99fa-802083ee6f0c</rateKey>
-            </room>
-        </rooms>
-        <info attr="attr 2">
-            <adult>3</adult>
-            <child>1</child>
-        </info>
-    </hotel>
-    <sibling baz="buzzz">im sibling</sibling>
+    <object>
+        <single>single value</single>
+        <array attr="attr 1">
+            <item>
+                <key>8fa16264-7149-47ae-8eb6-87a66d81432d</key>
+            </item>
+            <item>
+                <key>65f720b6-1bf6-41a2-99fa-802083ee6f0c</key>
+            </item>
+        </array>
+        <goingUp attr="attr 2">
+            <age>3</age>
+            <age>1</age>
+        </goingUp>
+    </object>
 </root>

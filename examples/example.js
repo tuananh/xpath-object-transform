@@ -4,14 +4,14 @@
 var transform = (typeof exports === 'object') ? require('../lib/xpath-object-transform') : window.jsonpathObjectTransform;
 
 var template = {
-    anObj: {
-        room: [
-            '/root/hotel/rooms/room',
-            {
-                attribute: '^^/info/@attr',
-                info:['.',{
-                    text: 'rateKey',
-                    adult: '^^/info/@attr'
+    seekObject: {
+        seekSingle: 'object/single',
+        seekArray: [
+            'object/array/item', {
+                key: 'item/key',
+                seekGoingUp: '^^/goingUp/@attr',
+                seekGoingUpArray: ['^^/goingUp/age', {
+                    text: '.',
                 }]
             }
         ]
