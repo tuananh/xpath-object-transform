@@ -4,49 +4,18 @@
 var transform = (typeof exports === 'object') ? require('../lib/xpath-object-transform') : window.jsonpathObjectTransform;
 
 var template = {
-    grandchild : [
-        '/root/child/grandchild',
-        {
-            baz: '@baz',
-            buz: '@buz',
-            empty: '',
-            hardCode: '#abc'
-        }
-    ],
-    arrInsideArr : [
-        '/root/arr1/arr2',
-        {
-            attr: '@attr',
-            arr: [
-                'item',
-                {
-                    value: '.'
-                }
-            ]
-        }
-    ],
     anObj: {
-        node: '/root/sibling',
-        abc: '/root/child/abc',
-        def : {
-            ghi: '/root/sibling/@baz'
-        },
-        arr: [
-            '/root/arr1/arr2/item',
+        // attr: '/root/hotel/info/@attr'
+        room: [
+            '/root/hotel/rooms/room',
             {
-                a: '.'
+                info:['.',{
+                    text: 'rateKey',
+                    adult: '^^/info/@attr'
+                }]
             }
         ]
     }
-    // ,arr1: [
-    //     '/root/arr1/arr2',
-    //     {
-    //         x: '.'
-    //     }
-    // ]
-    // test: '/root/arr1/arr2/item/.'
-    ,goUp: '/root/child/grandchild/..'
-    ,sibling: '/root/child/@foo'
 }
 
 var xml = require('fs').readFileSync('./example.xml', 'utf8')

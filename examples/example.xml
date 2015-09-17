@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-    <child foo="bar">
-        <grandchild baz="baz1" buz="buz1">grandchild content 1</grandchild>
-        <grandchild baz="baz2" buz="buz2">grandchild content 2</grandchild>
-        <abc baz="fizbuzzab">abc</abc>
-        <grandchild baz="baz3" buz="buz3">grandchild content 3</grandchild>
-        <grandchild baz="baz4" buz="buz4">grandchild content 4</grandchild>
-    </child>
-    <arr1>
-        <arr2 attr="attr 1">
-            <item>item1</item>
-            <item>item2</item>
-        </arr2>
-        <arr2 attr="attr 2">
-            <item>item3</item>
-            <item>item4</item>
-        </arr2>
-    </arr1>
+    <hotel>
+        <rooms attr="attr 1">
+            <room>
+                <rateKey>8fa16264-7149-47ae-8eb6-87a66d81432d</rateKey>
+            </room>
+            <room>
+                <rateKey>65f720b6-1bf6-41a2-99fa-802083ee6f0c</rateKey>
+            </room>
+        </rooms>
+        <info attr="attr 2">
+            <adult>3</adult>
+            <child>1</child>
+        </info>
+    </hotel>
     <sibling baz="buzzz">im sibling</sibling>
 </root>
