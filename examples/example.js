@@ -5,10 +5,10 @@ var transform = (typeof exports === 'object') ? require('../lib/xpath-object-tra
 
 var template = {
     anObj: {
-        // attr: '/root/hotel/info/@attr'
         room: [
             '/root/hotel/rooms/room',
             {
+                attribute: '^^/info/@attr',
                 info:['.',{
                     text: 'rateKey',
                     adult: '^^/info/@attr'
