@@ -11,11 +11,12 @@ var template = {
                 key: 'item/key',
                 seekGoingUp: '^^/goingUp/@attr',
                 seekGoingUpArray: ['^^/goingUp/age', {
-                    text: '.',
+                    age: '.'
                 }]
             }
         ]
     }
+    ,sum: 'sum(/root/object/goingUp/age)'
 }
 
 var xml = require('fs').readFileSync('./example.xml', 'utf8')

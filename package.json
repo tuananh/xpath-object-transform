@@ -1,6 +1,6 @@
 {
     "name": "xpath-object-transform",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "description": "Transform an object literal using xpath.",
     "main": "index.js",
     "scripts": {
