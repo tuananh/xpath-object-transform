@@ -15,8 +15,8 @@ var template = {
                 }]
             }
         ]
-    }
-    ,sum: 'sum(/root/object/goingUp/age)'
+    },
+    sum: 'sum(/root/object/goingUp/age)'
 }
 
 var xml = require('fs').readFileSync('./example.xml', 'utf8')
