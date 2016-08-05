@@ -1,31 +1,31 @@
 {
-    "name": "xpath-object-transform",
-    "version": "0.3.0",
-    "description": "Transform an object literal using xpath.",
-    "homepage": "https://github.com/tuananh/xpath-object-transform",
-    "bugs": "https://github.com/tuananh/xpath-object-transform/issues",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": "tuananh/xpath-object-transform",
-    "keywords": [
-        "xpath",
-        "json",
-        "path",
-        "object",
-        "translate",
-        "format",
-        "transform",
-        "remap",
-        "map"
-    ],
-    "author": "Tuan Anh Tran <me@tuananh.org>",
-    "license": "MIT",
-    "dependencies": {
-        "libxmljs": "0.18.0"
-    },
-    "devDependencies": {
-        "bower": "^1.3.1"
-    }
+  "name": "xpath-object-transform",
+  "version": "0.3.1",
+  "description": "Transform an object literal using xpath.",
+  "homepage": "https://github.com/tuananh/xpath-object-transform",
+  "bugs": "https://github.com/tuananh/xpath-object-transform/issues",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "tuananh/xpath-object-transform",
+  "keywords": [
+    "xpath",
+    "json",
+    "path",
+    "object",
+    "translate",
+    "format",
+    "transform",
+    "remap",
+    "map"
+  ],
+  "author": "Tuan Anh Tran <me@tuananh.org>",
+  "license": "MIT",
+  "dependencies": {
+    "libxmljs": "0.18.0"
+  },
+  "devDependencies": {
+    "bower": "^1.3.1"
+  }
 }
