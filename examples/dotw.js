@@ -58,6 +58,7 @@ let template = {
 
 let xml = fs.readFileSync('./dotw.xml', 'utf8')
 
+console.time('transform')
 var result = transform(xml, template)
-
+console.timeEnd('transform')
 // console.log(JSON.stringify(result, null, 2))
