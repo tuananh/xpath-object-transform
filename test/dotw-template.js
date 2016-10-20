@@ -1,33 +1,5 @@
-'use strict'
-
-let transform = require('../lib/xpath-object-transform'),
-    fs = require('fs')
-
-let template = {
-    requestId: '#',
-    currencyCode: '#USD',
+var template = {
     hotelSummary: ['/result/hotels/hotel', {
-        provider: '#DOTW',
-        hotelId: '@hotelid',
-        expediaId: '#',
-        hotelInfo: {
-            name: '#',
-            address: '#',
-            city: '#',
-            postalCode: '#',
-            countryCode: '#',
-            hotelRating: '#',
-            latitude: '#',
-            longitude: '#',
-            shortDescription: '#',
-            remark: '#',
-            childPolicy: {},
-            images: {
-                thumb: '',
-                hotelImages: []
-            },
-            amenities: []
-        },
         roomList: ['rooms/room', {
             numberOfAdults: './@adults',
             numberOfChildren: './@children',
@@ -56,9 +28,4 @@ let template = {
     }]
 }
 
-let xml = fs.readFileSync('./dotw.xml', 'utf8')
-
-console.time('transform')
-var result = transform(xml, template)
-console.timeEnd('transform')
-// console.log(JSON.stringify(result, null, 2))
+module.exports = template

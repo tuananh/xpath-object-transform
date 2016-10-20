@@ -9,10 +9,21 @@ I wrote this for a project at work and I had to customize `xpath` syntax a bit t
 
 Any problem, suggestion, you can hit me at me@tuananh.org or open an issue on GitLab.
 
+Installation
+-----
+
+```js
+npm install xpath-object-transform --save
+```
+
 Usage
 -----
 
-See `example/*.js`
+```js
+var transform = require('xpath-object-transform')
+
+var result = transform(xml, template)
+```
 
 TODO
 -----
