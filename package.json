@@ -6,7 +6,7 @@
   "bugs": "https://github.com/tuananh/xpath-object-transform/issues",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test/test.js"
+    "test": "./node_modules/mocha/bin/mocha test/test.js"
   },
   "repository": "tuananh/xpath-object-transform",
   "keywords": [
@@ -29,6 +29,7 @@
     "Bui Anh Thang <anhthang@goquo.com>"
   ],
   "devDependencies": {
-    "chai": "3.5.0"
+    "chai": "3.5.0",
+    "mocha": "3.2.0"
   }
 }
