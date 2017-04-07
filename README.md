@@ -1,14 +1,12 @@
 # xpath-object-transform
---------
 
 > A npm module to convert xml document to json based on a JSON template.
 
-
-XML is noisy and a pain to deal with. Ideally, I just want to work with JSON object.
+XML is noisy and a pain to deal with. I just want to work with JSON.
 
 ## Motivation
 
-Most of the xml to JSON libraries will convert the complete xml document to a complete JSON object but in our use cases, I don't really want that. We just want certain attributes.
+Most of the xml to JSON libraries will convert the complete xml document to a complete JSON object but in my use cases, I don't really want that. I just want certain attributes.
 
 Ideally, I just want to write a template specifies how to transform it and get the result. Hence this package.
 
@@ -31,3 +29,4 @@ var result = transform(xml, template)
 * Update documentation
 * Add test unit
 * Add more examples
+* Add benchmarks
