@@ -1,5 +1,7 @@
 # xpath-object-transform
 
+📌 DEPRECATED: Please use [camaro](https://github.com/tuananh/camaro) instead.
+
 > A npm module to convert xml document to json based on a JSON template.
 
 XML is noisy and a pain to deal with. I just want to work with JSON.
